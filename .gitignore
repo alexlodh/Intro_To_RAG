@@ -1,19 +1,61 @@
-# Byte‑compiled / optimised / DLL files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
 # Virtual environments
-.venv/
-.env/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
-# Pytest
-.cache/
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
-# My logs
+# Qdrant data
+qdrant_data/
+
+# Logs
+*.log
 logs/
+
+# Backup files
+*_backup.md
+
+# Model cache
+.cache/
+models/
