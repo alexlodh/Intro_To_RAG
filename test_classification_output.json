@@ -1,0 +1,39 @@
+[
+  {
+    "title": "AI Breakthrough in Medical Diagnosis",
+    "pub_date": "2025-08-06T11:21:53.419152",
+    "author": "Science Reporter",
+    "link": "https://example.com/ai-medical",
+    "summary": "AI breakthrough in medicine",
+    "classification": {
+      "sentiment": "positive",
+      "style": "news",
+      "topics": [
+        "technology",
+        "healthcare",
+        "science"
+      ],
+      "political_tendency": "null",
+      "sentiment_confidence": 0.95,
+      "style_confidence": 0.9,
+      "political_confidence": 0.0,
+      "topics_confidence": 0.85,
+      "classification_timestamp": "2025-08-06T11:21:53.419152"
+    },
+    "average_confidence": 0.85,
+    "custom_metadata": {
+      "reading_time_minutes": 1,
+      "urgency_score": 3,
+      "engagement_score": 2,
+      "word_count": 28,
+      "processing_timestamp": "2025-08-06T11:21:56.266673",
+      "classification_version": "2.0",
+      "language_detected": null,
+      "key_entities": [
+        "Researchers"
+      ],
+      "similarity_cluster": null
+    },
+    "content_preview": "Researchers have developed an AI system that can diagnose diseases with 95% accuracy, potentially revolutionizing healthcare delivery worldwide."
+  }
+]

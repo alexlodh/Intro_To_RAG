@@ -7,6 +7,7 @@ sentence-transformers>=2.2.2
 
 # Data Processing
 pandas>=2.0.0
+feedparser>=6.0.0
 
 # CLI and UI
 click>=8.0.0

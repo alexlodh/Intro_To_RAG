@@ -1,0 +1,23 @@
+[
+  {
+    "company_name": "APPLE INC.",
+    "num_employees": 164000,
+    "pre_tax_profit": 123136.0,
+    "esg_mentions": 6,
+    "filing_date": "September 30, 2024"
+  },
+  {
+    "company_name": "MICROSOFT CORPORATION",
+    "num_employees": 228000,
+    "pre_tax_profit": 88523.0,
+    "esg_mentions": 6,
+    "filing_date": "June 30, 2024"
+  },
+  {
+    "company_name": "TESLA, INC.",
+    "num_employees": 140473,
+    "pre_tax_profit": 7928.0,
+    "esg_mentions": 6,
+    "filing_date": "December 31, 2024"
+  }
+]

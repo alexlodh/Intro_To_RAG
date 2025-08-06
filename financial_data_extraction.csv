@@ -1,0 +1,4 @@
+company_name,num_employees,pre_tax_profit,esg_mentions,filing_date
+APPLE INC.,164000,123136.0,6,"September 30, 2024"
+MICROSOFT CORPORATION,228000,88523.0,6,"June 30, 2024"
+"TESLA, INC.",140473,7928.0,6,"December 31, 2024"

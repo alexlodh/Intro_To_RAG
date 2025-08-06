@@ -1,0 +1,269 @@
+[
+  {
+    "title": "US tariffs latest: Trump vows higher rates on India over Russian oil",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/ZELQYEU3NBGOZJMUD5SQ4W7TIU.JPG?auth=d2fcfb8f1ce2e0824b73c2801fe228d6b791e07a40523765a5560b26d25bad7c&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>The latest on Trump's tariffs from around the world.</div></div>",
+    "link": "https://www.reuters.com/world/us-tariffs-live-trump-vows-higher-rates-india-over-russian-oil-2025-08-05/",
+    "pub_date": "Tue, 05 Aug 2025 04:59:10 GMT",
+    "author": "Kay Johnson,Kantaro Komiya",
+    "guid": "e440958ae588ca5197cbeb09d6eeadbb",
+    "classification": {
+      "sentiment": "negative",
+      "style": "breaking",
+      "topics": [
+        "politics",
+        "economics",
+        "international relations"
+      ],
+      "political_tendency": "right",
+      "confidence_scores": {
+        "sentiment": 0.8,
+        "style": 0.9,
+        "topics": 0.85,
+        "political_tendency": 0.7
+      }
+    },
+    "average_confidence": 0.8125,
+    "custom_metadata": {
+      "reading_time_minutes": 1,
+      "urgency_score": 4,
+      "engagement_score": 2,
+      "word_count": 61,
+      "processing_timestamp": "2025-08-05T15:59:50.878497",
+      "classification_version": "1.0"
+    }
+  },
+  {
+    "title": "Morning bid: Bad news is good news for markets craving Fed 'rocket fuel'",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/42P5IVKDVJJPXJ2LNOOMNC3R74.jpg?auth=39eed8f9b125d5b457e1acc9c4161de83c0b28268b85ab10e404eb3cb4c7615c&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>A look at the day ahead in European and global markets from Rocky Swift</div></div>",
+    "link": "https://www.reuters.com/business/global-markets-view-europe-2025-08-05/",
+    "pub_date": "Tue, 05 Aug 2025 04:32:57 GMT",
+    "author": "Reuters",
+    "guid": "8850108c493c003c9897b72d40855913",
+    "classification": {
+      "sentiment": "neutral",
+      "style": "news",
+      "topics": [
+        "business",
+        "finance",
+        "economics"
+      ],
+      "political_tendency": null,
+      "confidence_scores": {
+        "sentiment": 0.8,
+        "style": 0.9,
+        "topics": 0.85,
+        "political_tendency": 1.0
+      }
+    },
+    "average_confidence": 0.8875000000000001,
+    "custom_metadata": {
+      "reading_time_minutes": 1,
+      "urgency_score": 3,
+      "engagement_score": 0,
+      "word_count": 64,
+      "processing_timestamp": "2025-08-05T15:59:50.878508",
+      "classification_version": "1.0"
+    }
+  },
+  {
+    "title": "US DOJ to open grand jury to investigate Obama officials, source says",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/FS3PFFV6FNJL5NR2I3QOTTIQLA.jpg?auth=75b254dc2873b48a42a5e8eb11ae294adf9f429df4740102aac7062fa597dbd6&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>U.S. Attorney General Pam Bondi has directed federal prosecutors to launch a grand jury investigation into allegations that members of Democratic former President Barack Obama's administration manufactured intelligence on Russia's interference in the 2016 elections, a source familiar with the matter said on Monday.</div></div>",
+    "link": "https://www.reuters.com/legal/government/us-doj-open-grand-jury-investigate-obama-officials-source-says-2025-08-04/",
+    "pub_date": "Tue, 05 Aug 2025 02:08:24 GMT",
+    "author": "Sarah N. Lynch,Kanishka Singh",
+    "guid": "950678f3152f3600ae46d97a9357bcf7",
+    "classification": {
+      "sentiment": "negative",
+      "style": "breaking",
+      "topics": [
+        "politics",
+        "investigation",
+        "government",
+        "elections",
+        "intelligence"
+      ],
+      "political_tendency": "right",
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 0.8
+      }
+    },
+    "average_confidence": 0.875,
+    "custom_metadata": {
+      "reading_time_minutes": 2,
+      "urgency_score": 4,
+      "engagement_score": 2,
+      "word_count": 113,
+      "processing_timestamp": "2025-08-05T15:59:50.878512",
+      "classification_version": "1.0"
+    }
+  },
+  {
+    "title": "Reuters Video",
+    "content": "<div><img src=\"https://ajo.prod.reuters.tv/api/v2/img/68913f7de4b01bea91241014?height=1200&amp;width=1200&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>Reuters news in video: footage captured by award winning Reuters journalists from around the globe.</div></div>",
+    "link": "https://www.reuters.com/video/world-news/",
+    "pub_date": "Mon, 04 Aug 2025 23:17:16 GMT",
+    "author": "@Reuters",
+    "guid": "a1e6182aa874f8e9709ac1d81d146aba",
+    "classification": {
+      "sentiment": "neutral",
+      "style": "news",
+      "topics": [
+        "journalism",
+        "media",
+        "video content"
+      ],
+      "political_tendency": null,
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 1.0
+      }
+    },
+    "average_confidence": 0.925,
+    "custom_metadata": {
+      "reading_time_minutes": 1,
+      "urgency_score": 3,
+      "engagement_score": 0,
+      "word_count": 55,
+      "processing_timestamp": "2025-08-05T15:59:50.878515",
+      "classification_version": "1.0"
+    }
+  },
+  {
+    "title": "Trump again threatens India with harsh tariffs over Russian oil purchases",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/V5GF6VDVIFPONBGQMFXEUHUFHA.jpg?auth=8a0a1bdfdb96334574756f32f863162e7f202850380ff2db0a568e5414a66999&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>U.S. President Donald Trump again threatened on Monday to raise tariffs on goods from India over its Russian oil purchases, while New Delhi called his attack \"unjustified\" and vowed to protect its economic interests, deepening the trade rift between the two countries.</div></div>",
+    "link": "https://www.reuters.com/world/india/trump-again-threatens-india-with-harsh-tariffs-over-russian-oil-purchases-2025-08-04/",
+    "pub_date": "Mon, 04 Aug 2025 21:57:57 GMT",
+    "author": "Kanishka Singh,Doina Chiacu",
+    "guid": "12f2cb556c6e8f64dadf9cdbc162abd6",
+    "classification": {
+      "sentiment": "negative",
+      "style": "news",
+      "topics": [
+        "politics",
+        "trade",
+        "international relations"
+      ],
+      "political_tendency": "right",
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 0.8
+      }
+    },
+    "average_confidence": 0.875,
+    "custom_metadata": {
+      "reading_time_minutes": 2,
+      "urgency_score": 3,
+      "engagement_score": 2,
+      "word_count": 104,
+      "processing_timestamp": "2025-08-05T15:59:50.878519",
+      "classification_version": "1.0"
+    }
+  },
+  {
+    "title": "Reuters Video",
+    "content": "<div><img src=\"https://ajo.prod.reuters.tv/api/v2/img/6890d9e4e4b01bea91240ef3-1754323455476?height=1200&amp;width=1200&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>Reuters news in video: footage captured by award winning Reuters journalists from around the globe.</div></div>",
+    "link": "https://www.reuters.com/video/",
+    "pub_date": "Mon, 04 Aug 2025 16:03:48 GMT",
+    "author": "@Reuters",
+    "guid": "0bdfe03c6ec93b8b5045f787ca98def7",
+    "classification": {
+      "sentiment": "neutral",
+      "style": "news",
+      "topics": [
+        "journalism",
+        "media",
+        "video content"
+      ],
+      "political_tendency": null,
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 1.0
+      }
+    },
+    "average_confidence": 0.925,
+    "custom_metadata": {
+      "reading_time_minutes": 1,
+      "urgency_score": 3,
+      "engagement_score": 0,
+      "word_count": 58,
+      "processing_timestamp": "2025-08-05T15:59:50.878522",
+      "classification_version": "1.0"
+    }
+  },
+  {
+    "title": "Harley-Davidson names Topgolf's Arthur Starrs as CEO",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/52NWWOYO5NL53CAQLHOLAWKDWA.jpg?auth=50678eed7d7d30df622f4b04a939e33cb4dda32295830fee1452aefd75f3601b&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>Harley-Davidson said on Monday that Arthur Starrs would succeed Jochen Zeitz as chief executive officer, a transition aimed at helping the motorcycle maker cope with numerous challenges from slowing sales to bearing the impact of tariffs.</div></div>",
+    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/harley-davidson-names-topgolfs-arthur-starrs-ceo-2025-08-04/",
+    "pub_date": "Mon, 04 Aug 2025 12:20:05 GMT",
+    "author": "Reuters",
+    "guid": "77ac592a312f2ffd66cb3bb028404ce3",
+    "classification": {
+      "sentiment": "neutral",
+      "style": "news",
+      "topics": [
+        "business",
+        "leadership",
+        "automotive"
+      ],
+      "political_tendency": null,
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 1.0
+      }
+    },
+    "average_confidence": 0.925,
+    "custom_metadata": {
+      "reading_time_minutes": 2,
+      "urgency_score": 3,
+      "engagement_score": 0,
+      "word_count": 98,
+      "processing_timestamp": "2025-08-05T15:59:50.878525",
+      "classification_version": "1.0"
+    }
+  },
+  {
+    "title": "Exclusive: Tesla's brand loyalty collapsed after Musk backed Trump, data shows",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/35C6BYCHPFM2TBZULD2OLE64XQ.jpg?auth=38f44d15b0f718eae47ee8160407875fd0fdabe565e54634ee6c05cf131ada80&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>Tesla for years had more repeat U.S. customers than any other major automotive brand but its loyalty has plunged since CEO Elon Musk endorsed President Donald Trump last summer, according to data from research firm S&amp;P Global Mobility shared exclusively with Reuters.</div></div>",
+    "link": "https://www.reuters.com/business/autos-transportation/teslas-brand-loyalty-collapsed-after-musk-backed-trump-data-shows-2025-08-04/",
+    "pub_date": "Mon, 04 Aug 2025 10:15:47 GMT",
+    "author": "Chris Kirkham",
+    "guid": "4746e015cff40e6b5bfc5e66ef4e5ef1",
+    "classification": {
+      "sentiment": "negative",
+      "style": "news",
+      "topics": [
+        "business",
+        "politics",
+        "automotive",
+        "brand loyalty"
+      ],
+      "political_tendency": "null",
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 0.0
+      }
+    },
+    "average_confidence": 0.675,
+    "custom_metadata": {
+      "reading_time_minutes": 2,
+      "urgency_score": 2,
+      "engagement_score": 2,
+      "word_count": 104,
+      "processing_timestamp": "2025-08-05T15:59:50.878528",
+      "classification_version": "1.0"
+    }
+  }
+]

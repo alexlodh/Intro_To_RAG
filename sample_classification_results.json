@@ -1,0 +1,130 @@
+[
+  {
+    "title": "AI Revolution Transforms Financial Services",
+    "pub_date": "2025-08-06T11:22:41.374673",
+    "author": "Tech Reporter",
+    "link": "https://example.com/ai-finance",
+    "summary": "AI transforming finance industry",
+    "tags": [
+      "technology",
+      "finance",
+      "AI"
+    ],
+    "classification": {
+      "sentiment": "positive",
+      "style": "news",
+      "topics": [
+        "technology",
+        "business",
+        "finance"
+      ],
+      "political_tendency": "null",
+      "sentiment_confidence": 0.85,
+      "style_confidence": 0.9,
+      "political_confidence": 0.0,
+      "topics_confidence": 0.95,
+      "classification_timestamp": "2025-08-06T11:22:41.374673"
+    },
+    "average_confidence": 0.7175,
+    "custom_metadata": {
+      "reading_time_minutes": 1,
+      "urgency_score": 3,
+      "engagement_score": 2,
+      "word_count": 48,
+      "processing_timestamp": "2025-08-06T11:22:49.592737",
+      "classification_version": "2.0",
+      "language_detected": null,
+      "key_entities": [
+        "Artificial",
+        "Major"
+      ],
+      "similarity_cluster": null
+    },
+    "content_preview": "Artificial intelligence is revolutionizing the financial services industry with automated trading systems, risk assessment tools, and personalized customer experiences. Major banks are investing billi..."
+  },
+  {
+    "title": "Breaking: Major Climate Summit Reaches Historic Agreement",
+    "pub_date": "2025-08-06T11:22:41.374680",
+    "author": "Environmental Correspondent",
+    "link": "https://example.com/climate-summit",
+    "summary": "Historic climate agreement reached",
+    "tags": [
+      "environment",
+      "politics",
+      "climate"
+    ],
+    "classification": {
+      "sentiment": "positive",
+      "style": "breaking",
+      "topics": [
+        "environment",
+        "politics",
+        "climate change"
+      ],
+      "political_tendency": "null",
+      "sentiment_confidence": 0.95,
+      "style_confidence": 0.9,
+      "political_confidence": 0.0,
+      "topics_confidence": 0.85,
+      "classification_timestamp": "2025-08-06T11:22:41.374680"
+    },
+    "average_confidence": 0.7225,
+    "custom_metadata": {
+      "reading_time_minutes": 1,
+      "urgency_score": 5,
+      "engagement_score": 3,
+      "word_count": 38,
+      "processing_timestamp": "2025-08-06T11:22:49.592887",
+      "classification_version": "2.0",
+      "language_detected": null,
+      "key_entities": [
+        "World"
+      ],
+      "similarity_cluster": null
+    },
+    "content_preview": "World leaders have reached a groundbreaking agreement at the climate summit, committing to ambitious carbon reduction targets. The deal represents the most significant climate action in decades."
+  },
+  {
+    "title": "Market Analysis: Tech Stocks Show Resilience",
+    "pub_date": "2025-08-06T11:22:41.374682",
+    "author": "Market Analyst",
+    "link": "https://example.com/tech-stocks",
+    "summary": "Tech stocks performing well",
+    "tags": [
+      "business",
+      "technology",
+      "stocks"
+    ],
+    "classification": {
+      "sentiment": "positive",
+      "style": "analysis",
+      "topics": [
+        "technology",
+        "business",
+        "finance"
+      ],
+      "political_tendency": "null",
+      "sentiment_confidence": 0.85,
+      "style_confidence": 0.9,
+      "political_confidence": 0.0,
+      "topics_confidence": 0.95,
+      "classification_timestamp": "2025-08-06T11:22:41.374682"
+    },
+    "average_confidence": 0.7175,
+    "custom_metadata": {
+      "reading_time_minutes": 1,
+      "urgency_score": 2,
+      "engagement_score": 2,
+      "word_count": 37,
+      "processing_timestamp": "2025-08-06T11:22:49.593010",
+      "classification_version": "2.0",
+      "language_detected": null,
+      "key_entities": [
+        "Despite",
+        "Analysts"
+      ],
+      "similarity_cluster": null
+    },
+    "content_preview": "Despite economic uncertainties, technology stocks continue to demonstrate strong performance. Analysts point to innovation in cloud computing and artificial intelligence as key drivers."
+  }
+]

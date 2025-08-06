@@ -1,0 +1,129 @@
+[
+  {
+    "title": "US tariffs latest: Trump vows higher rates on India over Russian oil",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/ZELQYEU3NBGOZJMUD5SQ4W7TIU.JPG?auth=d2fcfb8f1ce2e0824b73c2801fe228d6b791e07a40523765a5560b26d25bad7c&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>The latest on Trump's tariffs from around the world.</div></div>",
+    "link": "https://www.reuters.com/world/us-tariffs-live-trump-vows-higher-rates-india-over-russian-oil-2025-08-05/",
+    "pub_date": "Tue, 05 Aug 2025 04:59:10 GMT",
+    "author": "Kay Johnson,Kantaro Komiya",
+    "guid": "e440958ae588ca5197cbeb09d6eeadbb",
+    "classification": {
+      "sentiment": "neutral",
+      "style": "news",
+      "topics": [
+        "politics",
+        "economics",
+        "international relations"
+      ],
+      "political_tendency": null,
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 0.0
+      },
+      "classification_timestamp": "2025-08-05T15:55:45.026351"
+    }
+  },
+  {
+    "title": "Morning bid: Bad news is good news for markets craving Fed 'rocket fuel'",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/42P5IVKDVJJPXJ2LNOOMNC3R74.jpg?auth=39eed8f9b125d5b457e1acc9c4161de83c0b28268b85ab10e404eb3cb4c7615c&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>A look at the day ahead in European and global markets from Rocky Swift</div></div>",
+    "link": "https://www.reuters.com/business/global-markets-view-europe-2025-08-05/",
+    "pub_date": "Tue, 05 Aug 2025 04:32:57 GMT",
+    "author": "Reuters",
+    "guid": "8850108c493c003c9897b72d40855913",
+    "classification": {
+      "sentiment": "neutral",
+      "style": "news",
+      "topics": [
+        "business",
+        "finance",
+        "economics"
+      ],
+      "political_tendency": null,
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 1.0
+      },
+      "classification_timestamp": "2025-08-05T15:55:47.477783"
+    }
+  },
+  {
+    "title": "US DOJ to open grand jury to investigate Obama officials, source says",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/FS3PFFV6FNJL5NR2I3QOTTIQLA.jpg?auth=75b254dc2873b48a42a5e8eb11ae294adf9f429df4740102aac7062fa597dbd6&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>U.S. Attorney General Pam Bondi has directed federal prosecutors to launch a grand jury investigation into allegations that members of Democratic former President Barack Obama's administration manufactured intelligence on Russia's interference in the 2016 elections, a source familiar with the matter said on Monday.</div></div>",
+    "link": "https://www.reuters.com/legal/government/us-doj-open-grand-jury-investigate-obama-officials-source-says-2025-08-04/",
+    "pub_date": "Tue, 05 Aug 2025 02:08:24 GMT",
+    "author": "Sarah N. Lynch,Kanishka Singh",
+    "guid": "950678f3152f3600ae46d97a9357bcf7",
+    "classification": {
+      "sentiment": "negative",
+      "style": "breaking",
+      "topics": [
+        "politics",
+        "investigation",
+        "law",
+        "government",
+        "elections"
+      ],
+      "political_tendency": "right",
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 0.8
+      },
+      "classification_timestamp": "2025-08-05T15:55:50.550092"
+    }
+  },
+  {
+    "title": "Reuters Video",
+    "content": "<div><img src=\"https://ajo.prod.reuters.tv/api/v2/img/68913f7de4b01bea91241014?height=1200&amp;width=1200&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>Reuters news in video: footage captured by award winning Reuters journalists from around the globe.</div></div>",
+    "link": "https://www.reuters.com/video/world-news/",
+    "pub_date": "Mon, 04 Aug 2025 23:17:16 GMT",
+    "author": "@Reuters",
+    "guid": "a1e6182aa874f8e9709ac1d81d146aba",
+    "classification": {
+      "sentiment": "neutral",
+      "style": "news",
+      "topics": [
+        "journalism",
+        "media",
+        "video content"
+      ],
+      "political_tendency": null,
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 1.0
+      },
+      "classification_timestamp": "2025-08-05T15:55:53.110132"
+    }
+  },
+  {
+    "title": "Trump again threatens India with harsh tariffs over Russian oil purchases",
+    "content": "<div><img src=\"https://www.reuters.com/resizer/v2/V5GF6VDVIFPONBGQMFXEUHUFHA.jpg?auth=8a0a1bdfdb96334574756f32f863162e7f202850380ff2db0a568e5414a66999&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true\" style=\"width: 100%;\" /><div>U.S. President Donald Trump again threatened on Monday to raise tariffs on goods from India over its Russian oil purchases, while New Delhi called his attack \"unjustified\" and vowed to protect its economic interests, deepening the trade rift between the two countries.</div></div>",
+    "link": "https://www.reuters.com/world/india/trump-again-threatens-india-with-harsh-tariffs-over-russian-oil-purchases-2025-08-04/",
+    "pub_date": "Mon, 04 Aug 2025 21:57:57 GMT",
+    "author": "Kanishka Singh,Doina Chiacu",
+    "guid": "12f2cb556c6e8f64dadf9cdbc162abd6",
+    "classification": {
+      "sentiment": "negative",
+      "style": "news",
+      "topics": [
+        "politics",
+        "trade",
+        "international relations"
+      ],
+      "political_tendency": "right",
+      "confidence_scores": {
+        "sentiment": 0.9,
+        "style": 0.95,
+        "topics": 0.85,
+        "political_tendency": 0.8
+      },
+      "classification_timestamp": "2025-08-05T15:55:55.362177"
+    }
+  }
+]
