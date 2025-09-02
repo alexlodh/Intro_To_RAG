@@ -433,23 +433,3 @@ python simple_example.py         # Simple test
 2. Search specific topics: `python main.py search --query "AI" --category "New Product"`
 3. Get AI insights: `python main.py ask --question "How are companies using AI?"`
 4. Export findings: Use CLI output redirection for reports
-
-## License
-
-MIT License - See LICENSE file for details
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## Support
-
-For issues and questions:
-1. Check this README for common solutions
-2. Run `python setup_qa.py` to verify your environment
-3. Check the troubleshooting section
-4. Submit issues on GitHub
