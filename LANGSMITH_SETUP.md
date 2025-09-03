@@ -60,7 +60,7 @@ Visit your LangSmith dashboard at: https://smith.langchain.com/
 
 ### Environment Variables (`.env`)
 ```bash
-LANGCHAIN_API_KEY=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
+LANGCHAIN_API_KEY= {KEY}
 LANGCHAIN_TRACING_V2=true
 LANGCHAIN_PROJECT=pe_headlines_rag
 ```
